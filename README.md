@@ -35,10 +35,10 @@ Fortinet GUI & CLI
 
 # Credits
 
-Developed by 
-Mohab Nasser
-Ahmed Khaled
-Amr Khaled
-Youssef Mohamed
-As part of the Fortinet Network Security Training Project
-Guided by DEPI Cybersecurity Track
+## Developed by 
+### Mohab Nasser
+### Ahmed Khaled
+### Amr Khaled
+### Youssef Mohamed
+### As part of the Fortinet Network Security Training Project
+### Guided by DEPI Cybersecurity Track
