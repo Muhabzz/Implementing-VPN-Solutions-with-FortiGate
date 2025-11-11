@@ -256,9 +256,6 @@ cp ~/localfile.txt ~/hq-share/
   * On sender: `python3 -m http.server 8080` then from receiver browse `http://<IP>:8080`.
 * **Robocopy (Windows)** — robust copy tool:
 
-```cmd
-robocopy "C:\FolderToCopy" "\\10.10.10.50\Share" /MIR /Z /W:5 /R:3
-```
 
 * **VMware Shared Folders** — share host filesystem into guest (not recommended to test network-level connectivity).
 
