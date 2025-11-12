@@ -1,4 +1,4 @@
-# About the Project
+# About The Graduation Project
 
 Implementing VPN Solutions with FortiGate is a practical networking project focused on designing and deploying secure Virtual Private Network (VPN) solutions using Fortinet’s FortiGate firewall.
 The project demonstrates how VPN technologies like SSL VPN and IPsec VPN can be configured to provide encrypted, reliable remote access and site-to-site connectivity.
@@ -36,9 +36,9 @@ Fortinet GUI & CLI
 # Credits
 
 ## Developed by 
-### Mohab Nasser
-### Ahmed Khaled
-### Amr Khaled
-### Youssef Mohamed
+#### Mohab Nasser
+#### Ahmed Khaled
+#### Amr Khaled
+#### Youssef Mohamed
 ### As part of the Fortinet Network Security Training Project
-### Guided by DEPI Cybersecurity Track
+#### Guided by DEPI Cybersecurity Track
