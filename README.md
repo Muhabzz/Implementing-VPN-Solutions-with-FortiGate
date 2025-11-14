@@ -23,8 +23,6 @@ Evaluate and document VPN connectivity, stability, and efficiency.
 
 FortiGate Firewall
 
-FortiManager
-
 SSL VPN & IPsec VPN
 
 SD-WAN Optimization
