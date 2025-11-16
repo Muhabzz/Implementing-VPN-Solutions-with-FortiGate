@@ -300,7 +300,7 @@ diagnose sniffer packet port2 'host 10.10.10.50' 4
 ```bash
 ip a
 ping 10.20.20.1
-sudo dhclient -v eth0
+sudo dhclient -v eth0 # To Obtain A new IP From The DHCP Server "DORA"
 ```
 
 ### Windows (PowerShell)
